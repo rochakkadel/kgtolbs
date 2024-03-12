@@ -1,0 +1,42 @@
+
+
+
+
+body{
+ 
+   background-color: black;
+   color: white; 
+   font-size: 45px;
+ }
+ 
+ 
+ button{
+   height: 50px;
+   box-shadow: 5px 5px 5px #186964;
+   margin-left: 5px;
+   border-radius: 50px;
+   border-color: white;
+ }
+ 
+ 
+ button:hover{
+   background-color: red;
+ }
+ 
+ 
+ input{
+   height: 50px;
+   width: 100px;
+   box-shadow: 5px 5px 5px #186964;
+   background-color: silver;
+   border-color: white;
+   font-size: 30px;
+   text-align: center;
+ }
+ 
+ 
+ p{
+   color: red;
+   font-size: 60px;
+ }
+ 
